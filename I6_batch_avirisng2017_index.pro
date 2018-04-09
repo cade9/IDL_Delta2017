@@ -1,4 +1,4 @@
-Pro batch_avirisng2017_index
+Pro I6_batch_avirisng2017_index
 
   ;###############################################################
   ;# This program opens all 3 continuum removal files, extracts  #

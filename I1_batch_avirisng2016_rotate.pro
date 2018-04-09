@@ -1,4 +1,4 @@
-Pro batch_avirisng2016_rotate
+Pro I1_batch_avirisng2016_rotate
 
   envi, /restore_base_save_files
   envi_batch_init, log_file='batch.log'

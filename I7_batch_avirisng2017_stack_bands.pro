@@ -1,4 +1,4 @@
-Pro batch_avirisng2017_stack_bands
+Pro I7_batch_avirisng2017_stack_bands
 
 envi, /restore_base_save_files
 envi_batch_init, log_file='batch.log'

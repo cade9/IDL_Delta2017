@@ -1,4 +1,4 @@
-Pro batch_mask_apply_original_image
+Pro I4_batch_mask_apply_original_image
 
   ; ##############################################################################
   ; applying single mask file to a bunch of files exactly the same size and extent

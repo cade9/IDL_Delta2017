@@ -1,4 +1,4 @@
-pro batch_avirisng2017_samclass
+pro I6_batch_avirisng2017_samclass
 
 
   envi, /restore_base_save_files

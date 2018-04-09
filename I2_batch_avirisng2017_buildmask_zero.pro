@@ -1,4 +1,4 @@
-Pro batch_build_2018_mask_zero
+Pro I2_batch_build_2018_mask_zero
 
 ; input directory
 indirectory  = 'X:\delta_sav\raster\coreg_orig\'

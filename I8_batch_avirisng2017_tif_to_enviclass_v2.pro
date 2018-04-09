@@ -1,4 +1,4 @@
-pro batch_avirisng2017_tif_to_enviclass_v2
+pro I8_batch_avirisng2017_tif_to_enviclass_v2
 
   ;###########################################################################
   ;######## A program to convert geoTIFF files to ENVI classification ########

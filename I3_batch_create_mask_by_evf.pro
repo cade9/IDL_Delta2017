@@ -1,4 +1,4 @@
-pro batch_create_mask_by_evf
+pro I3_batch_create_mask_by_evf
 
   ; ############################################################
   ; #### create masks based on watermask evf vector file    ####
